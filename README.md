@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I'm a software engineering student with a passion for technology and problem-solving. Skilled in programming languages, algorithms, and software design patterns.<br>⚡ I'm is a quick learner who stays up-to-date with the latest trends and technologies. A team player and contributor to open-source communities  <br>📧 Shoot me an email or add me on LinkedIn     
+😎 I'm a software engineering student with a passion for technology and problem-solving. Skilled in programming languages, algorithms, and software design patterns.<br>⚡ I'm a quick learner who stays up-to-date with the latest trends and technologies. A team player and contributor to open-source communities  <br>📧 Shoot me an email or add me on LinkedIn     
 
 
 ## 🌐 Socials:
